@@ -1,2 +1,4 @@
-﻿var app = new FitnessTrackerApp();
+﻿using ConsoleApp.MiniFitnessTracker;
+
+var app = new FitnessTrackerApp();
 app.Run();
